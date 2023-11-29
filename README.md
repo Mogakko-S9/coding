@@ -10,3 +10,5 @@ Ssafy 9기 대전캠퍼스 모각코 인원들의 개발블로그 작성 이력�
 2023-11-26  이세훈  htts://notion.so/mogakko/  기본 틀 잡기
 
 2023-11-27  이세훈  https://kimzegal.tistory.com/294 외 4개  React 이론 정리
+
+2023-11-27  이세훈   https://kimzegal.tistory.com/297  React state 이론 정리
