@@ -11,4 +11,6 @@ Ssafy 9기 대전캠퍼스 모각코 인원들의 개발블로그 작성 이력�
 
 2023-11-27  이세훈  https://kimzegal.tistory.com/294 외 4개  React 이론 정리
 
-2023-11-27  이세훈   https://kimzegal.tistory.com/297  React state 이론 정리
+2023-11-28  이세훈   https://kimzegal.tistory.com/297  React state 이론 정리
+
+2023-12-03  이세훈   https://kimzegal.tistory.com/28  SQL 정리
